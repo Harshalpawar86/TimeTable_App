@@ -1,0 +1,41 @@
+name: prodos_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_native_splash: ^2.4.6
+  flutter_riverpod: ^2.6.1
+  flutter_staggered_grid_view: ^0.7.0
+  google_fonts: ^6.3.1
+  intl: ^0.20.2
+  path: ^1.9.1
+  percent_indicator: ^4.2.5
+  shared_preferences: ^2.5.3
+  sqflite: ^2.4.2
+  table_calendar: ^3.2.0
+  uuid: ^4.5.1
+  flutter_local_notifications: ^19.4.2
+  timezone: ^0.10.1
+  permission_handler: ^12.0.1
+  flutter_autostart: ^0.0.2
+  flutter_native_timezone: ^2.0.0
+  smooth_page_indicator: ^1.2.1
+  open_settings_plus: ^0.4.0
+  app_settings: ^6.1.1
+  url_launcher: ^6.3.2
+  shimmer: ^3.0.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/photos/

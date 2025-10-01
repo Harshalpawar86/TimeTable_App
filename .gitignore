@@ -1,0 +1,45 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.idea/
+*.iml
+*.log
+*.lock
+*.env
+
+# Android
+android/.gradle/
+android/app/build/
+android/local.properties
+android/java_pid*.hprof
+
+# iOS
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Windows
+windows/flutter/ephemeral/
+windows/runner/*.exe
+windows/runner/*.manifest
+
+# macOS
+macos/Flutter/Flutter-*
+macos/Runner.xcworkspace/
+
+# Linux
+linux/flutter/ephemeral/
+
+# VSCode
+.vscode/
+
+# Big files / media
+*.mp4
+*.mov
+*.zip
+*.tar.gz
+*.apk
+*.aab
