@@ -43,6 +43,32 @@ You can download the latest release of **TaskTable** here:
 
 - **Flutter** (Cross-platform framework)  
 - **Dart** (Programming language)  
-- **flutter_local_notifications** package for reminders  
+- **SQLite** (Local database)
 
 ---
+
+## 📦 Packages Used
+
+TaskTable makes use of the following awesome Flutter/Dart packages:
+
+- **[flutter_native_splash](https://pub.dev/packages/flutter_native_splash)** – Custom app splash screen  
+- **[flutter_riverpod](https://pub.dev/packages/flutter_riverpod)** – State management  
+- **[flutter_staggered_grid_view](https://pub.dev/packages/flutter_staggered_grid_view)** – Staggered grid layout  
+- **[google_fonts](https://pub.dev/packages/google_fonts)** – Custom fonts  
+- **[intl](https://pub.dev/packages/intl)** – Date & time formatting  
+- **[path](https://pub.dev/packages/path)** – File path utilities  
+- **[percent_indicator](https://pub.dev/packages/percent_indicator)** – Progress indicators  
+- **[shared_preferences](https://pub.dev/packages/shared_preferences)** – Local key-value storage  
+- **[sqflite](https://pub.dev/packages/sqflite)** – SQLite database  
+- **[table_calendar](https://pub.dev/packages/table_calendar)** – Calendar integration  
+- **[uuid](https://pub.dev/packages/uuid)** – Unique ID generation  
+- **[flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)** – Local task reminders  
+- **[timezone](https://pub.dev/packages/timezone)** – Accurate scheduling with time zones  
+- **[permission_handler](https://pub.dev/packages/permission_handler)** – Runtime permissions  
+- **[flutter_autostart](https://pub.dev/packages/flutter_autostart)** – Autostart on boot  
+- **[flutter_native_timezone](https://pub.dev/packages/flutter_native_timezone)** – Timezone detection  
+- **[smooth_page_indicator](https://pub.dev/packages/smooth_page_indicator)** – Page indicators for onboarding/screens  
+- **[open_settings_plus](https://pub.dev/packages/open_settings_plus)** – Open device settings directly  
+- **[app_settings](https://pub.dev/packages/app_settings)** – Control app/system settings  
+- **[url_launcher](https://pub.dev/packages/url_launcher)** – Launch URLs and external apps  
+- **[shimmer](https://pub.dev/packages/shimmer)** – Shimmer loading effect  
