@@ -35,7 +35,7 @@ With the help of **local notifications**, you’ll never miss an important activ
 
 ## 📥 Download
 You can download the latest release of **TaskTable** here:  
-👉 (YOUR_DRIVE_LINK_HERE)](https://drive.google.com/drive/folders/13j_EFgfPz2Q1LIu2lrm6AERfSoj1L_cl?usp=sharing)
+👉 https://drive.google.com/drive/folders/13j_EFgfPz2Q1LIu2lrm6AERfSoj1L_cl?usp=sharing
 
 ---
 
